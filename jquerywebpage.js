@@ -1,24 +1,24 @@
 $(document).ready(function()
 {
 
-	console.log("hi")
-	$('#t1').click(function()
-{
-	$('#dwn1').slideToggle('fast');
-	
-});
-	$('#t2').click(function()
-{
-	$('#dwn2').slideToggle('fast');
-	
-});
-	$('#t3').click(function()
-{
-	$('#dwn3').slideToggle('fast');
-});
-	$('#t4').click(function()
+	console.log("'sup")
+$('#t4').click(function()
 {
 	$('#dwn4').slideToggle('fast');
+	
+});
+$('#t3').click(function()
+{
+	$('#dwn3').slideToggle('fast');
+	
+});
+$('#t2').click(function()
+{
+	$('#dwn2').slideToggle('fast');
+});
+$('#t1').click(function()
+{
+	$('#dwn1').slideToggle('fast');
 });
 	$('.zoomop').mouseenter(function(){
 		$(this).animate({

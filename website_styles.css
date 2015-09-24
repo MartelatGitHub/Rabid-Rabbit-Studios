@@ -43,8 +43,11 @@
 {
 	position: relative;
 	margin: auto;
-	width: 100%;
+	width: 50%;
 	height: 100%;
+	float: center;
+	border-radius: 3em;
+	margin-left: 24%;
 }
 .contentcell
 {
@@ -66,15 +69,7 @@
 
 
 }
-#drpdwns
-{
-	position: relative;
-	height: 1em;
-	width: 1em;
-	
-	
 
-}
 
 #logo
 {
@@ -122,14 +117,7 @@
 	font-family: cursive;
 
 }
-#dropdowns
-{
-	background-color: none;
-	padding: none;
-	height: 50%;
 
-
-}
 #dwn1
 {
 	display: none;
