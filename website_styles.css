@@ -1,0 +1,220 @@
+
+
+
+
+
+.background {
+	background-repeat: no-repeat;
+	background-image: url("website_wallpaper_6.jpg"); top left no-repeat; 
+	background-attachment: fixed;
+	background-size: 100% 100%;
+}
+
+#website_background
+{
+	clear: all;
+	width: 100%;
+	height: 100%;
+}
+#websitecontent
+{
+	width: 100%;
+	height: 60%;
+	margin: auto;
+
+}
+	
+#banner
+{
+	height: 25%;
+	width: 70%;
+	border-style: solid;
+	border-color: #DB0F01;
+	border-width: 0.3%;
+	border-radius: 1em;
+	padding: 0.3em;
+	position: relative;
+	background-color: #DB0F01;
+	float: top;
+	margin: auto;
+	
+}		
+.bunnybanner
+{
+	position: relative;
+	margin: auto;
+	width: 100%;
+	height: 100%;
+}
+.contentcell
+{
+	border-style: none;
+	width: 25%;
+	height: 7%;
+	padding: none;
+	background-color: brown;
+	border-radius: 1em;
+
+}
+.contentcell2
+{
+
+	margin: auto;
+	height: 50%;
+	position: relative;
+	background-color: none;
+
+
+}
+#drpdwns
+{
+	position: relative;
+	height: 1em;
+	width: 1em;
+	
+	
+
+}
+
+#logo
+{
+	height: 9em;
+	width: 9em;
+	margin: auto;
+	background-color: green;
+	border-radius: 100%;
+	margin-bottom: 1em;
+	padding: 0.2em;
+	float: bottom;
+}
+
+.bunnylogo
+{
+	position: relative;
+	width: 75%;
+	height: 75%;
+	margin-left: 11.4%;
+	margin-top: 10%;
+	border-style: solid;
+	border-radius: 100%;
+
+}
+
+#NavBar
+{
+	background-color: green;
+	border-radius: 3%;
+	width: 50%;
+	padding: 1em;
+	position: relative;
+	margin: auto;
+	margin-bottom: 1em;
+	margin-top: 1em;
+	font-family: cursive;
+	font-size: 15pt;
+}
+.options
+{
+	height: 100%;
+	width: 100%;
+	text-align: center;
+	font-size: 20pt;
+	font-family: cursive;
+
+}
+#dropdowns
+{
+	background-color: none;
+	padding: none;
+	height: 50%;
+
+
+}
+#dwn1
+{
+	display: none;
+	position: relative;
+	margin: auto;
+	background-color: green;
+	height: 100%;
+	width: 14em;
+	border-radius: 1em;
+}
+#dwn2
+{
+	display: none;
+	position: relative;
+	margin: auto;
+	background-color: green;
+	height: 100%;
+	width: 14em;
+	border-radius: 1em;
+}
+#dwn3
+{
+	display: none;
+	position: relative;
+	margin: auto;
+	background-color: green;
+	height: 100%;
+	width: 14em;
+	border-radius: 1em;
+}
+#dwn4
+{
+	display: none;
+	position: relative;
+	margin: auto;
+	background-color: green;
+	height: 100%;
+	width: 14em;
+	border-radius: 1em;
+}
+#townhalls
+{
+	position: relative;
+	width: 100%;
+}
+.layouts 
+{
+	position: relative;
+	height: 60%;
+	margin: auto;
+	margin-top: auto;
+	margin-bottom: auto;
+	width: 100%;
+	text-align: center;
+	
+
+}
+.THbutton
+{
+	margin-top: 20%;
+	position: relative;
+	margin-bottom: 10%;
+	margin: auto;
+	width: 100%;
+
+}
+.THbutton > p
+{
+	background-color: blue;
+	height: 4em;
+	width: 40%;
+	border-radius: 100%;
+	position: relative;
+	text-align: center;
+	font-size: 13pt;
+	margin: auto;
+	float: center;
+	font-family: bold;
+
+}
+
+
+
+
+
+
+
+
